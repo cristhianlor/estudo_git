@@ -1,0 +1,11 @@
+***MERGE***
+
+git checkout main
+
+git merge mapeamento-basico
+
+
+git checkout -b branch-novo
+
+
+https://www.bing.com/videos/search?q=como+fazer+merge+no+github&&view=detail&mid=7FA39FDC37A2FF06CF117FA39FDC37A2FF06CF11&&FORM=VDRVRV
